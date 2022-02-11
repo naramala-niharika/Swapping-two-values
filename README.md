@@ -33,7 +33,7 @@ n1,n2 = n2,n1
 print("Swapped values are:",n1,n2)
 
 ## OUTPUT:
-![output](https://github.com/naramala-niharika/Swapping-two-values/blob/main/Screenshot%20(21).png?raw=true)
+![output]()
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
